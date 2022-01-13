@@ -1,2 +1,2 @@
-## CS380 - Python
-# Code and problems for all CS380 assignments
+# CS380 - Python
+## Problems and code for all CS380 assignments
